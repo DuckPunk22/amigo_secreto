@@ -27,7 +27,7 @@ Este es un programa simple en JavaScript que te permite agregar nombres de amigo
 
 ##Ejemplo visual
 
-![Vista previa de la aplicación]. ().
+![Vista previa de la aplicación]. (https://duckpunk22.github.io/amigo_secreto/).
 
 ## Cómo usar
 
