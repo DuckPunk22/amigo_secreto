@@ -19,10 +19,15 @@ Este es un programa simple en JavaScript que te permite agregar nombres de amigo
 2.- Abre el archivo `index.html` en tu navegador web
 
 
-Si deseas contribuir a este proyecto, ¡eres bienvenido! Puedes hacerlo de las siguientes maneras:
+##Si deseas contribuir a este proyecto, ¡eres bienvenido! Puedes hacerlo de las siguientes maneras:
+
 1.-Reportar problemas: Si encuentras un error, abre un issue en el repositorio.
 
 2.-Mejoras: Si tienes ideas para mejorar el programa, envía un pull request.
+
+##Ejemplo visual
+
+![Vista previa de la aplicación]. ().
 
 ## Cómo usar
 
