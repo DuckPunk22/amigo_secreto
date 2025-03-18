@@ -61,3 +61,8 @@ El código está dividido en dos partes principales:
 
 1. **HTML**: Define la estructura de la interfaz.
 2. **JavaScript**: Contiene la lógica para agregar nombres y realizar el sorteo.
+
+##Licencia
+Este proyecto está bajo la licencia MIT. Para más detalles, consulta el archivo LICENSE.
+
+¡Espero que este programa te sea útil! Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
