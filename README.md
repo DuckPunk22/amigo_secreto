@@ -13,8 +13,12 @@ Este es un programa simple en JavaScript que te permite agregar nombres de amigo
 
 1.-Clona este repositorio en tu maquina local
 ```bash
-  gif clone htt
+  gif clone https://github.com/DuckPunk22/amigo_secreto.git
 ```
+
+2.- Abre el archivo `index.html` en tu navegador web
+
+
 Si deseas contribuir a este proyecto, ¡eres bienvenido! Puedes hacerlo de las siguientes maneras:
 1.-Reportar problemas: Si encuentras un error, abre un issue en el repositorio.
 
